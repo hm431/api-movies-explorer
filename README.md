@@ -1,10 +1,6 @@
-<h1 align="center">Дипломный проект: "Movies Explorer" (backend)</h1>
+<h1 align="center">Backend дипломного проекта</h1>
 
-<div align="center">
-  <!-- <a href="https://elrouss.mesto.nomoredomains.work"> -->
-    <img width="550" alt="Фрагмент кода программы" src="https://user-images.githubusercontent.com/108838349/232590608-22fa855b-b2f3-4b57-9d9d-7e0e476ea423.png">
-  <!-- </a> -->
-</div>
+
 
 <a name="summary">
   <details>
@@ -21,23 +17,14 @@
 </a>
 
 <a name="project-description"><h2>1. Описание проекта</h2></a>
-Данная проектная работа - итоговая в рамках образовательной программы <a href="https://practicum.yandex.ru/">Яндекс Практикума</a>. Проект представляет собой написание серверной логики для объединения с частью frontendа, сделанной на "React". Приложение предоставляет возможность регистрации пользователей с поиском фильмов на стороннем API и добавлением их в свой личный кабинет.
-
-Проект задеплоен на виртуальную машину, размещенную на <a href="https://cloud.yandex.ru/">Яндекс Облаке</a>.
-
-<b>Адрес репозитория:</b> https://github.com/elrouss/movies-explorer-api
+Данная работа -  часть итогового проекта в рамках образовательной программы <a href="https://practicum.yandex.ru/">Яндекс Практикума</a>.  Приложение предоставляет возможность регистрации пользователей с поиском фильмов на стороннем API и добавлением их в свой личный кабинет.
 
 <b>Ссылки на проект:</b>
-<br>
-IP: 51.250.81.132
-<br>
-Backend: https://api.elrouss.movies.nomoredomains.monster/
 
-<b>Ссылка на чек-лист (см. раздел backend)</b>
-<br>
-https://code.s3.yandex.net/web-developer/static/new-program/web-diploma-criteria-2.0/index.html
+Backend: http://api.finalworkmovieshm431.nomoredomainswork.ru/
 
-<i>* - проект прошел код-ревью</i>
+
+
 
 <div align="right">(<a href="#summary">к оглавлению</a>)</div>
 
@@ -53,29 +40,23 @@ https://code.s3.yandex.net/web-developer/static/new-program/web-diploma-criteria
 <div align="right">(<a href="#summary">к оглавлению</a>)</div>
 
 <a name="installation"><h2>3. Установка и запуск приложения в локальном репозитории</h2></a>
-1. `git clone https://github.com/elrouss/movies-explorer-api.git` - клонировать репозиторий (HTTPS) на свое устройство
+1. `git clone `https://github.com/hm431/movies-explorer-api.git` - клонировать репозиторий (HTTPS) на свое устройство
 2. `npm i` - установить зависимости
 3. `npm run dev` - запустить приложение в режиме разработчика c hot-reload (в браузере ввести ссылку http://localhost:3000/, где 3000 - рабочий порт)
 *  `npm run start` - запустить dev-режим сборки приложения
 
 <div align="right">(<a href="#summary">к оглавлению</a>)</div>
 
-<a name="establishing"><h2>4. Процесс создания</h2></a>
-Работа выполнена в <b>1 этап</b>:
-<br>
-1. Реализация основного функционала (см. ниже) с деплоем на облачном сервере, созданием домена и подключением SSL-сертификатов
 
-<div align="right">(<a href="#summary">к оглавлению</a>)</div>
 
-<a name="functionality"><h2>5. Функционал</h2></a>
+
+
+<a name="functionality"><h2>4. Функционал</h2></a>
 - Регистрация и авторизация пользователя
 - Редактирование данных пользователя
 - Добавление фильма в личный кабинет
 - Удаление фильма из личного кабинета
 
-<div align="right">(<a href="#summary">к оглавлению</a>)</div>
 
-<a name="enhancement"><h2>6. Статус проекта</h2></a>
-Проект завершен
 
-<div align="right">(<a href="#summary">к оглавлению</a>)</div>
+
